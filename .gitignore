@@ -1,0 +1,6 @@
+TEMPORAL
+TEMPORAL2
+carpeta/
+!carpeta/temp2
+CARPETA/*
+!CARPETA/TEMP2
